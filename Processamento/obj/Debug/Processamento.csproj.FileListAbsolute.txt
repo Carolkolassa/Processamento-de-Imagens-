@@ -1,0 +1,126 @@
+C:\Users\Computacao\Desktop\Processamento\Processamento\obj\Debug\Processamento.csproj.AssemblyReference.cache
+C:\Users\Computacao\Desktop\Processamento\Processamento\obj\Debug\Processamento.csproj.SuggestedBindingRedirects.cache
+C:\Users\Computacao\Desktop\Processamento\Processamento\obj\Debug\Processamento.Properties.Resources.resources
+C:\Users\Computacao\Desktop\Processamento\Processamento\obj\Debug\Processamento.csproj.GenerateResource.cache
+C:\Users\Computacao\Desktop\Processamento\Processamento\obj\Debug\Processamento.csproj.CoreCompileInputs.cache
+C:\Users\Computacao\Desktop\Processamento\Processamento\bin\Debug\Processamento.exe.config
+C:\Users\Computacao\Desktop\Processamento\Processamento\bin\Debug\Processamento.exe
+C:\Users\Computacao\Desktop\Processamento\Processamento\bin\Debug\Processamento.pdb
+C:\Users\Computacao\Desktop\Processamento\Processamento\obj\Debug\Processamento.exe
+C:\Users\Computacao\Desktop\Processamento\Processamento\obj\Debug\Processamento.pdb
+C:\Users\Computacao\Desktop\Processamento\Processamento\obj\Debug\Processamento.BtDivisao.resources
+C:\Users\Usuario\Desktop\Processamento\Processamento\bin\Debug\Processamento.exe.config
+C:\Users\Usuario\Desktop\Processamento\Processamento\bin\Debug\Processamento.exe
+C:\Users\Usuario\Desktop\Processamento\Processamento\bin\Debug\Processamento.pdb
+C:\Users\Usuario\Desktop\Processamento\Processamento\obj\Debug\Processamento.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Processamento\Processamento\obj\Debug\Processamento.BtDivisao.resources
+C:\Users\Usuario\Desktop\Processamento\Processamento\obj\Debug\Processamento.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Processamento\Processamento\obj\Debug\Processamento.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Processamento\Processamento\obj\Debug\Processamento.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Processamento\Processamento\obj\Debug\Processamento.exe
+C:\Users\Usuario\Desktop\Processamento\Processamento\obj\Debug\Processamento.pdb
+C:\Users\Gamer\Desktop\MaiconMiosso-lista2\ex8\Processamento\bin\Debug\Processamento.exe.config
+C:\Users\Gamer\Desktop\MaiconMiosso-lista2\ex8\Processamento\bin\Debug\Processamento.exe
+C:\Users\Gamer\Desktop\MaiconMiosso-lista2\ex8\Processamento\bin\Debug\Processamento.pdb
+C:\Users\Gamer\Desktop\MaiconMiosso-lista2\ex8\Processamento\obj\Debug\Processamento.csproj.AssemblyReference.cache
+C:\Users\Gamer\Desktop\MaiconMiosso-lista2\ex8\Processamento\obj\Debug\Processamento.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gamer\Desktop\MaiconMiosso-lista2\ex8\Processamento\obj\Debug\Processamento.BtDivisao.resources
+C:\Users\Gamer\Desktop\MaiconMiosso-lista2\ex8\Processamento\obj\Debug\Processamento.Properties.Resources.resources
+C:\Users\Gamer\Desktop\MaiconMiosso-lista2\ex8\Processamento\obj\Debug\Processamento.csproj.GenerateResource.cache
+C:\Users\Gamer\Desktop\MaiconMiosso-lista2\ex8\Processamento\obj\Debug\Processamento.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\MaiconMiosso-lista2\ex8\Processamento\obj\Debug\Processamento.exe
+C:\Users\Gamer\Desktop\MaiconMiosso-lista2\ex8\Processamento\obj\Debug\Processamento.pdb
+C:\Users\Gamer\Desktop\Exercicio_08\Processamento\bin\Debug\Processamento.exe.config
+C:\Users\Gamer\Desktop\Exercicio_08\Processamento\bin\Debug\Processamento.exe
+C:\Users\Gamer\Desktop\Exercicio_08\Processamento\bin\Debug\Processamento.pdb
+C:\Users\Gamer\Desktop\Exercicio_08\Processamento\obj\Debug\Processamento.csproj.AssemblyReference.cache
+C:\Users\Gamer\Desktop\Exercicio_08\Processamento\obj\Debug\Processamento.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gamer\Desktop\Exercicio_08\Processamento\obj\Debug\Processamento.BtDivisao.resources
+C:\Users\Gamer\Desktop\Exercicio_08\Processamento\obj\Debug\Processamento.Properties.Resources.resources
+C:\Users\Gamer\Desktop\Exercicio_08\Processamento\obj\Debug\Processamento.csproj.GenerateResource.cache
+C:\Users\Gamer\Desktop\Exercicio_08\Processamento\obj\Debug\Processamento.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\Exercicio_08\Processamento\obj\Debug\Processamento.exe
+C:\Users\Gamer\Desktop\Exercicio_08\Processamento\obj\Debug\Processamento.pdb
+C:\Users\Gamer\Desktop\Exercicio_08\Processamento\bin\Debug\AForge.dll
+C:\Users\Gamer\Desktop\Exercicio_08\Processamento\bin\Debug\AForge.Imaging.dll
+C:\Users\Gamer\Desktop\Exercicio_08\Processamento\bin\Debug\AForge.Math.dll
+C:\Users\Gamer\Desktop\Exercicio_08\Processamento\bin\Debug\log4net.dll
+C:\Users\Gamer\Desktop\Exercicio_08\Processamento\bin\Debug\AForge.xml
+C:\Users\Gamer\Desktop\Exercicio_08\Processamento\bin\Debug\AForge.Imaging.xml
+C:\Users\Gamer\Desktop\Exercicio_08\Processamento\bin\Debug\AForge.Math.xml
+C:\Users\Gamer\Desktop\Exercicio_08\Processamento\bin\Debug\log4net.xml
+C:\Users\Gamer\Desktop\Exercicio_08\Processamento\obj\Debug\Processamento.csproj.CopyComplete
+C:\Users\Gamer\Desktop\Exercicio_08\Processamento\bin\Debug\Fizzler.dll
+C:\Users\Gamer\Desktop\Exercicio_08\Processamento\bin\Debug\Svg.dll
+C:\Users\Gamer\Desktop\Exercicio_08\Processamento\bin\Debug\System.Buffers.dll
+C:\Users\Gamer\Desktop\Exercicio_08\Processamento\bin\Debug\System.Memory.dll
+C:\Users\Gamer\Desktop\Exercicio_08\Processamento\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Gamer\Desktop\Exercicio_08\Processamento\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gamer\Desktop\Exercicio_08\Processamento\bin\Debug\Fizzler.pdb
+C:\Users\Gamer\Desktop\Exercicio_08\Processamento\bin\Debug\Svg.xml
+C:\Users\Gamer\Desktop\Exercicio_08\Processamento\bin\Debug\System.Buffers.xml
+C:\Users\Gamer\Desktop\Exercicio_08\Processamento\bin\Debug\System.Memory.xml
+C:\Users\Gamer\Desktop\Exercicio_08\Processamento\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Gamer\Desktop\Exercicio_08\Processamento\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Pedro Lucas\Downloads\ProcessamentoImagem\Exercicio_08\Processamento\bin\Debug\Processamento.exe.config
+D:\Pedro Lucas\Downloads\ProcessamentoImagem\Exercicio_08\Processamento\bin\Debug\Processamento.exe
+D:\Pedro Lucas\Downloads\ProcessamentoImagem\Exercicio_08\Processamento\bin\Debug\Processamento.pdb
+D:\Pedro Lucas\Downloads\ProcessamentoImagem\Exercicio_08\Processamento\bin\Debug\AForge.dll
+D:\Pedro Lucas\Downloads\ProcessamentoImagem\Exercicio_08\Processamento\bin\Debug\AForge.Imaging.dll
+D:\Pedro Lucas\Downloads\ProcessamentoImagem\Exercicio_08\Processamento\bin\Debug\AForge.Math.dll
+D:\Pedro Lucas\Downloads\ProcessamentoImagem\Exercicio_08\Processamento\bin\Debug\Fizzler.dll
+D:\Pedro Lucas\Downloads\ProcessamentoImagem\Exercicio_08\Processamento\bin\Debug\log4net.dll
+D:\Pedro Lucas\Downloads\ProcessamentoImagem\Exercicio_08\Processamento\bin\Debug\Svg.dll
+D:\Pedro Lucas\Downloads\ProcessamentoImagem\Exercicio_08\Processamento\bin\Debug\System.Buffers.dll
+D:\Pedro Lucas\Downloads\ProcessamentoImagem\Exercicio_08\Processamento\bin\Debug\System.Memory.dll
+D:\Pedro Lucas\Downloads\ProcessamentoImagem\Exercicio_08\Processamento\bin\Debug\System.Numerics.Vectors.dll
+D:\Pedro Lucas\Downloads\ProcessamentoImagem\Exercicio_08\Processamento\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Pedro Lucas\Downloads\ProcessamentoImagem\Exercicio_08\Processamento\bin\Debug\AForge.xml
+D:\Pedro Lucas\Downloads\ProcessamentoImagem\Exercicio_08\Processamento\bin\Debug\AForge.Imaging.xml
+D:\Pedro Lucas\Downloads\ProcessamentoImagem\Exercicio_08\Processamento\bin\Debug\AForge.Math.xml
+D:\Pedro Lucas\Downloads\ProcessamentoImagem\Exercicio_08\Processamento\bin\Debug\Fizzler.pdb
+D:\Pedro Lucas\Downloads\ProcessamentoImagem\Exercicio_08\Processamento\bin\Debug\log4net.xml
+D:\Pedro Lucas\Downloads\ProcessamentoImagem\Exercicio_08\Processamento\bin\Debug\Svg.xml
+D:\Pedro Lucas\Downloads\ProcessamentoImagem\Exercicio_08\Processamento\bin\Debug\System.Buffers.xml
+D:\Pedro Lucas\Downloads\ProcessamentoImagem\Exercicio_08\Processamento\bin\Debug\System.Memory.xml
+D:\Pedro Lucas\Downloads\ProcessamentoImagem\Exercicio_08\Processamento\bin\Debug\System.Numerics.Vectors.xml
+D:\Pedro Lucas\Downloads\ProcessamentoImagem\Exercicio_08\Processamento\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Pedro Lucas\Downloads\ProcessamentoImagem\Exercicio_08\Processamento\obj\Debug\Processamento.csproj.AssemblyReference.cache
+D:\Pedro Lucas\Downloads\ProcessamentoImagem\Exercicio_08\Processamento\obj\Debug\Processamento.BtDivisao.resources
+D:\Pedro Lucas\Downloads\ProcessamentoImagem\Exercicio_08\Processamento\obj\Debug\Processamento.Properties.Resources.resources
+D:\Pedro Lucas\Downloads\ProcessamentoImagem\Exercicio_08\Processamento\obj\Debug\Processamento.csproj.GenerateResource.cache
+D:\Pedro Lucas\Downloads\ProcessamentoImagem\Exercicio_08\Processamento\obj\Debug\Processamento.csproj.CoreCompileInputs.cache
+D:\Pedro Lucas\Downloads\ProcessamentoImagem\Exercicio_08\Processamento\obj\Debug\Processamento.exe
+D:\Pedro Lucas\Downloads\ProcessamentoImagem\Exercicio_08\Processamento\obj\Debug\Processamento.pdb
+C:\Users\Insaite Digital\Desktop\Processamento Carol\Exercicio_08\Processamento\bin\Debug\Processamento.exe.config
+C:\Users\Insaite Digital\Desktop\Processamento Carol\Exercicio_08\Processamento\bin\Debug\Processamento.exe
+C:\Users\Insaite Digital\Desktop\Processamento Carol\Exercicio_08\Processamento\bin\Debug\Processamento.pdb
+C:\Users\Insaite Digital\Desktop\Processamento Carol\Exercicio_08\Processamento\bin\Debug\AForge.dll
+C:\Users\Insaite Digital\Desktop\Processamento Carol\Exercicio_08\Processamento\bin\Debug\AForge.Imaging.dll
+C:\Users\Insaite Digital\Desktop\Processamento Carol\Exercicio_08\Processamento\bin\Debug\AForge.Math.dll
+C:\Users\Insaite Digital\Desktop\Processamento Carol\Exercicio_08\Processamento\bin\Debug\Fizzler.dll
+C:\Users\Insaite Digital\Desktop\Processamento Carol\Exercicio_08\Processamento\bin\Debug\log4net.dll
+C:\Users\Insaite Digital\Desktop\Processamento Carol\Exercicio_08\Processamento\bin\Debug\Svg.dll
+C:\Users\Insaite Digital\Desktop\Processamento Carol\Exercicio_08\Processamento\bin\Debug\System.Buffers.dll
+C:\Users\Insaite Digital\Desktop\Processamento Carol\Exercicio_08\Processamento\bin\Debug\System.Memory.dll
+C:\Users\Insaite Digital\Desktop\Processamento Carol\Exercicio_08\Processamento\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Insaite Digital\Desktop\Processamento Carol\Exercicio_08\Processamento\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Insaite Digital\Desktop\Processamento Carol\Exercicio_08\Processamento\bin\Debug\AForge.xml
+C:\Users\Insaite Digital\Desktop\Processamento Carol\Exercicio_08\Processamento\bin\Debug\AForge.Imaging.xml
+C:\Users\Insaite Digital\Desktop\Processamento Carol\Exercicio_08\Processamento\bin\Debug\AForge.Math.xml
+C:\Users\Insaite Digital\Desktop\Processamento Carol\Exercicio_08\Processamento\bin\Debug\Fizzler.pdb
+C:\Users\Insaite Digital\Desktop\Processamento Carol\Exercicio_08\Processamento\bin\Debug\log4net.xml
+C:\Users\Insaite Digital\Desktop\Processamento Carol\Exercicio_08\Processamento\bin\Debug\Svg.xml
+C:\Users\Insaite Digital\Desktop\Processamento Carol\Exercicio_08\Processamento\bin\Debug\System.Buffers.xml
+C:\Users\Insaite Digital\Desktop\Processamento Carol\Exercicio_08\Processamento\bin\Debug\System.Memory.xml
+C:\Users\Insaite Digital\Desktop\Processamento Carol\Exercicio_08\Processamento\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Insaite Digital\Desktop\Processamento Carol\Exercicio_08\Processamento\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Insaite Digital\Desktop\Processamento Carol\Exercicio_08\Processamento\obj\Debug\Processamento.csproj.AssemblyReference.cache
+C:\Users\Insaite Digital\Desktop\Processamento Carol\Exercicio_08\Processamento\obj\Debug\Processamento.csproj.SuggestedBindingRedirects.cache
+C:\Users\Insaite Digital\Desktop\Processamento Carol\Exercicio_08\Processamento\obj\Debug\Processamento.BtDivisao.resources
+C:\Users\Insaite Digital\Desktop\Processamento Carol\Exercicio_08\Processamento\obj\Debug\Processamento.Properties.Resources.resources
+C:\Users\Insaite Digital\Desktop\Processamento Carol\Exercicio_08\Processamento\obj\Debug\Processamento.csproj.GenerateResource.cache
+C:\Users\Insaite Digital\Desktop\Processamento Carol\Exercicio_08\Processamento\obj\Debug\Processamento.csproj.CoreCompileInputs.cache
+C:\Users\Insaite Digital\Desktop\Processamento Carol\Exercicio_08\Processamento\obj\Debug\Processamento.csproj.CopyComplete
+C:\Users\Insaite Digital\Desktop\Processamento Carol\Exercicio_08\Processamento\obj\Debug\Processamento.exe
+C:\Users\Insaite Digital\Desktop\Processamento Carol\Exercicio_08\Processamento\obj\Debug\Processamento.pdb
